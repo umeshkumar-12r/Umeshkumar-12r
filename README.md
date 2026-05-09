@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi Guys 👋
 
-<!--
-**umeshkumar-12r/Umeshkumar-12r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Second Year CSE Student at **Galgotias University**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about **Full Stack Development** and **Data Science**  
+
+📚 Currently learning by building **real-world projects**  
+
+🧠 Interested in **backend systems, analytics, and scalable applications**  
+
+🌱 Improving my **DSA, development skills, and open-source contributions**  
+
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Languages
+- Java
+- Python
+
+## 📚 Libraries & Frameworks
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+## ⚙️ Tools & Platforms
+- Google Colab
+- Jupyter Notebook
+
+
+---
+
+# 🌟 Featured Projects
+
+## ⏱️ Employee Time Management System
+
+A management system designed to track employee work timings and improve workflow handling.
+
+### ✨ Features
+- Employee attendance management
+- Time tracking system
+- Structured database handling
+- Simple and scalable architecture
+
+### 🔗 GitHub Repository
+👉 [Employee Time Management System](https://github.com/umeshkumar-12r/employee_time_managemt_project)
+
+
+---
+
+## 🤖 AI Resume Analyzer
+
+An AI-powered resume analyzer that evaluates resumes and generates smart feedback.
+
+### ✨ Features
+- Resume analysis system
+- AI-based suggestions
+- File upload support
+- Feedback generation
+- Clean frontend + backend integration
+
+### 🔗 GitHub Repository
+👉 [AI Resume Analyzer](https://github.com/umeshkumar-12r/AI-Resume-Analyzer)
+
+
+---
+
+# 📈 Current Goals
+
+- Build impactful real-world projects
+- Contribute more to open source
+- Strengthen backend development skills
+- Improve problem-solving and DSA
+
+
+
