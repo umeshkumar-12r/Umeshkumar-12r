@@ -30,6 +30,9 @@
 ## ⚙️ Tools & Platforms
 - Google Colab
 - Jupyter Notebook
+- Android Studio
+- Vs code
+- eclipse ide
 
 
 ---
