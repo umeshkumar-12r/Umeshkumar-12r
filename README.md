@@ -70,7 +70,7 @@ An AI-powered resume analyzer that evaluates resumes and generates smart feedbac
 👉 [AI Resume Analyzer](https://github.com/umeshkumar-12r/AI-Resume-Analyzer)
 
 
----
+------
 
 # 📈 Current Goals
 
