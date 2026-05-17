@@ -13,13 +13,14 @@
 🌱 Improving my **DSA, development skills, and open-source contributions**  
 
 
------
+-------
 
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Languages
 - Java
 - Python
+- c
 
 ## 📚 Libraries & Frameworks
 - NumPy
@@ -35,7 +36,7 @@
 - eclipse ide
 
 
----
+-----
 
 # 🌟 Featured Projects
 
