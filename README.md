@@ -33,7 +33,7 @@
 - Jupyter Notebook
 - Android Studio
 - Vs code
-- eclipse ide
+- Eclipse IDE
 
 
 -----
