@@ -65,7 +65,7 @@ An AI-powered resume analyzer that evaluates resumes and generates smart feedbac
 - AI-based suggestions
 - File upload support
 - Feedback generation
-- Clean frontend + backend integration
+
 
 ### 🔗 GitHub Repository
 👉 [AI Resume Analyzer](https://github.com/umeshkumar-12r/AI-Resume-Analyzer)
