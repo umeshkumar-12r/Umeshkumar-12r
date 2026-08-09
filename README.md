@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 Second Year CSE Student at **Galgotias University**  
+🎓 Third Year CSE Student at **Galgotias University**  
 
 💻 Passionate about **Full Stack Development** and **Data Science**  
 
